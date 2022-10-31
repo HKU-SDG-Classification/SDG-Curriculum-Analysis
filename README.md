@@ -1,5 +1,7 @@
-# osdg
+# SDG Curriculum Analysis
+Developed by Dr. Leon Lei, Mr. Meilin Tan, Mr Yao Rui
 
+## SDG List
 GOAL 1: No Poverty  
 GOAL 2: Zero Hunger  
 GOAL 3: Good Health and Well-being  
