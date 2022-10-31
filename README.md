@@ -1,5 +1,5 @@
 # SDG Curriculum Analysis
-Developed by Dr. Leon Lei, Mr. Meilin Tan, Mr Yao Rui
+Developed by Dr. Leon Lei, Miss. Meilin Tian, Mr. Yao Rui
 
 Education plays an essential role in achieving United Nations Sustainable Development Goals (SDGs). However, there are only scattered studies on monitoring how schools and universities holistically teach SDGs through their curriculum. The main purpose of this study is to investigate the connection of existing curriculum to SDG education. In this study, we use machine learning approaches to tag courses with SDGs.
 
