@@ -5,4 +5,4 @@ This function is used to **evaluate** the classification performance of a machin
 from multieva import evaluate_on_each_SDG
 evaluate_on_each_SDG(y_true,y_pred)
 </code></pre>
-<img src="usage.jpg" alt="drawing" height=560 width="750"/>
+<img src="usage.jpg" alt="drawing" />
