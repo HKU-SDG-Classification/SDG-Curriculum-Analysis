@@ -2,6 +2,7 @@ Dataset: only OSDG dataset.
 Algorithm: GRU  
 **Notice that the last layer is: Dense(15, activation='sigmoid')), 
 The activation function is set here to sigmoid instead of softmax to adapt to Multi-label Classification.**  
+  
 Details:  
 Dense(15, activation='sigmoid')) can give 15 **independent** outputs, each output is from 0 to 1,
 represent the probability of the corresponding SDG.
