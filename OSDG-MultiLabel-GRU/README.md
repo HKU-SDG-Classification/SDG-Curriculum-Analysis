@@ -1,4 +1,4 @@
-Dataset: only OSDG dataset.  
+Dataset: Combined OSDG dataset, a multi-label classification dataset.
 Algorithm: GRU  
 **Notice that the last layer is: Dense(15, activation='sigmoid')), 
 The activation function is set here to sigmoid instead of softmax to adapt to Multi-label Classification.**  
@@ -10,4 +10,7 @@ represent the probability of the corresponding SDG.
 See more details on <https://www.coursera.org/lecture/advanced-learning-algorithms/classification-with-multiple-outputs-optional-pjIk0>  
 ![Alt text](./Andrew_Ng_slide.jpg)  
 An example:  
-![Alt text](./experiment.jpg)
+![Alt text](./experiment.jpg)  
+Accuracy on training: 0.6146  
+Accuracy on validation: 0.5745  
+thus not good enough yet, but shows potentiality to deal with multi-label classification problems.
