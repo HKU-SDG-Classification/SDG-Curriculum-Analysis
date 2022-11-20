@@ -1,3 +1,4 @@
+Google Colab link:<https://colab.research.google.com/drive/1f6jRrWmOQaIO-uUur5fcMv4wBVT0_KWU?usp=sharing>  
 Dataset: Combined OSDG dataset, a multi-label classification dataset.  
 Algorithm: GRU  
 **Notice that the last layer is: Dense(15, activation='sigmoid')), 
