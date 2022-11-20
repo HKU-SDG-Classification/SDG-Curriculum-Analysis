@@ -1,4 +1,4 @@
-Dataset: Combined OSDG dataset, a multi-label classification dataset.
+Dataset: Combined OSDG dataset, a multi-label classification dataset.  
 Algorithm: GRU  
 **Notice that the last layer is: Dense(15, activation='sigmoid')), 
 The activation function is set here to sigmoid instead of softmax to adapt to Multi-label Classification.**  
